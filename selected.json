@@ -1,0 +1,10 @@
+{
+  "part a": "b-shoco",
+  "part b": [
+    "awk_main",
+    "awk_getline",
+    "setvar_i",
+    "setvar_s"
+  ],
+  "student_id": "A0234874W"
+}
